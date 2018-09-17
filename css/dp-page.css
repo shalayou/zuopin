@@ -1,0 +1,41 @@
+#dp-page{
+	width:1100px;
+	height:auto;
+	margin:124px auto 30px auto;
+}
+.context{
+	width:1020px;
+	height:50px;
+	background: #fff;
+	margin:0 auto;
+	padding:0 40px;
+	margin-bottom:10px;
+}
+.style{
+	display:block;
+	height:28px;
+	line-height:28px;
+	background:#eee;
+	color:#9f9f9f;
+	padding:0 10px;
+	border-radius:4px;
+	float: left;
+	margin-right:20px;
+	margin-top:11px;
+}
+.active2{
+	background:#ffa200;
+	color:#fff;
+}
+.box{
+	width:1100px;
+	height:auto;
+	margin-bottom:14px;
+}
+.box img{
+	width:1100px;
+	height:auto;
+	margin:0;
+	border:0;
+}
+
